@@ -8,5 +8,4 @@
 
 ```r
 stuff <- image_read(image)
-image_read(stuff)
 ```
