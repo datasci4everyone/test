@@ -10,4 +10,4 @@ Are you one of my students?
 - Feel fre to watch this repository
 - You can even ⭐ the repo if you want 
 
-You can also check out my [test website](https://datasci4everyone.github.io/test/)
+You can also check out my [test website!](https://datasci4everyone.github.io/test/)
