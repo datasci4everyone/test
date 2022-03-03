@@ -11,3 +11,5 @@ Are you one of my students?
 - You can even ⭐ the repo if you want 
 
 You can also check out my [test website!](https://datasci4everyone.github.io/test/)
+
+This README file is intentionally boring. It could probably do with some images, or more emoji 😺
