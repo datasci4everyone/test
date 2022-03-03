@@ -4,7 +4,7 @@ Welcome to my test website!
 
 ## About me
 
-I'm a data science lecturer at the University of Auckland. **I love cats, coffee, and code.** 
+I'm a data science lecturer at the [University of Auckland](https://unidirectory.auckland.ac.nz/profile/a-fergusson). **I love cats, coffee, and code.** 
 
 ## I also love memes!
 
