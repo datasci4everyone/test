@@ -7,7 +7,7 @@ This is my test repo.
 Are you one of my students?
 
 - Feel free to follow me ([datasci4everyone](https://github.com/datasci4everyone))
-- Feel fre to watch this repository
+- Feel free to watch this repository
 - You can even ⭐ the repo if you want 
 
 You can also check out my [test website!](https://datasci4everyone.github.io/test/)
